@@ -1,4 +1,8 @@
 # (React) Sistema Eleitoral - Front-End
+<br/>
+<br/>
+<img  alt="demo image" src="demo.gif" width=600 height=480>
+
 
 Front-end desenvolvido com **React (React-Router, ContextAPI)** e as bibliotecas **Formik** e **Yup**. Conectado com uma *API* **Spring Boot**, esse projeto realiza consultas, cadastros e atualizações de candidatos, além de ser possível votar (em uma simulação de urna eletrônica) e fazer apuração de votos. No momento, apenas candidatos a prefeito podem ser gerenciados.  
 
@@ -14,7 +18,11 @@ Inicia a aplicação utilizando localhost na porta 3000:
 npm start
 ```
 
-### Projeto em desenvolvimento  
+<hr/>
+
+### Projeto em desenvolvimento  ⚠️
+
+
 
 
 
