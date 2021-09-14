@@ -83,7 +83,7 @@ const RankingTable = () => {
                     <td key={element.number}>{element.number}</td>
                     <td key={element.state} >{element.state}</td>
                     <td key={element.party}>{element.party}</td>
-                    <td key={element.votes + index}>{element.votes}</td>
+                    <td key={element.votes + (index + 100)}>{element.votes}</td>
                 </tr>)
             });
 
